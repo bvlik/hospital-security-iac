@@ -1,0 +1,18 @@
+# Binaires Go
+soc/soc
+soc/soc.exe
+*.exe
+*.out
+
+# Go
+go.sum
+vendor/
+
+# Environnement / IDE
+.vscode/
+.idea/
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
