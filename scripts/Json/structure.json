@@ -1,0 +1,7 @@
+{
+  "folders": [
+    { "path": "C:\\Hopital\\Direction", "group": "G_Direction", "rights": "Modify" },
+    { "path": "C:\\Hopital\\RH", "group": "G_RH", "rights": "Modify" },
+    { "path": "C:\\Hopital\\Finance", "group": "G_Finance", "rights": "Modify" }
+  ]
+}

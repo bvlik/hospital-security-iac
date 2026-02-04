@@ -1,0 +1,9 @@
+{
+  "groups": [
+    { "name": "G_Direction", "description": "General management" },
+    { "name": "G_RH", "description": "Human resources" },
+    { "name": "G_Finance", "description": "Finance department" },
+    { "name": "G_Medecins", "description": "Medical staff" },
+    { "name": "G_IT", "description": "IT department" }
+  ]
+}

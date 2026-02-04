@@ -1,0 +1,22 @@
+{
+  "profiles": [
+    {
+      "profile": "Medecins",
+      "users": [
+        { "name": "medecin1", "firstName": "Jean", "defaultPassword": "Hopital2026!" }
+      ]
+    },
+    {
+      "profile": "Direction",
+      "users": [
+        { "name": "dir1", "firstName": "Alice", "defaultPassword": "Hopital2026!" }
+      ]
+    },
+    {
+      "profile": "IT",
+      "users": [
+        { "name": "admin_it", "firstName": "Marc", "defaultPassword": "Hopital2026!" }
+      ]
+    }
+  ]
+}
